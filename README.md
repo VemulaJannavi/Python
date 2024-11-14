@@ -1,2 +1,2 @@
 # Python
-Python codes and documents will be uplode
+Python codes and documents will be upload
